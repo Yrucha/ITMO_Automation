@@ -1,0 +1,7 @@
+def passing()
+    print("test")
+passing
+cd ../
+
+    mkdir "test"
+

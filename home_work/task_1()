@@ -1,0 +1,8 @@
+a = 1 # int
+print (a, "относится к типу", type(1))
+b = 2.5 # float
+print (b)
+c = 'user' # str
+print (c)
+d =  (5 == 5)  # bool
+print (d)
